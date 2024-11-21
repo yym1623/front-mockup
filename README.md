@@ -1,4 +1,4 @@
-### Front  목업
+### Front MockUp
 
 #### 구성 목록
 
