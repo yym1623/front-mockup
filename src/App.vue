@@ -1,17 +1,11 @@
 <template>
-  <div class="p-card">
-    <div>1</div>
-    <div>2</div>
-  </div>
-  <!-- <ThemeSwitcher />
-<Menu /> -->
-<!-- <Button label="Contrast" severity="contrast" /> -->
+  <div></div>
 </template>
 
 <script setup lang="ts">
 
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 
 </style>
