@@ -1,14 +1,12 @@
 ### Front MockUp
 
-#### 구성 목록
+#### List
 
+##### UI Settings
+1. UI frameWork - primeVue + tailwindcss
+2. CSS - tailwindcss, sass, autoprefixer, prettier, postcss
 
-##### ui 구성
-1. ui 프레임워크 - PrimeVue + tailwindcss
-2. css - tailwindcss, sass, autoprefixer, prettier, postcss
-
-
-#### vue 구성
+#### VUE Settings
 1. vite
 2. typescript
 3. router
