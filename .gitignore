@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # custom
-src/assets/primevue
+src/assets/primevue/*
