@@ -1,4 +1,4 @@
-### Front MockUp
+### Front - mockup (vue3)
 
 #### List
 
